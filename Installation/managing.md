@@ -1,0 +1,12 @@
+--activate myenv by command $ source myenv/bin/activate 
+--
+--Change the directory to your project by $ cd project_name
+--
+--$ python manage.py startapp ---applicatioon_name--
+--
+--$ code .
+--
+--$ python3.10 manage.py runserver 8080
+--
+--Copy the Generated link and paste in chrome
+--
